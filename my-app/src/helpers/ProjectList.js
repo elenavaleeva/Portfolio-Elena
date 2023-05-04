@@ -1,1 +1,0 @@
-import Proj1 from "assets/"
